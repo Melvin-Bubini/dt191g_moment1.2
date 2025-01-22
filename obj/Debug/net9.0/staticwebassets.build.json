@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+CiJ0NaLM0bgJ2DtefvWNN9acThW0ABekWwqFBpmIo4=",
+  "Hash": "AybbMJvBaXZbxb4wcYGddCZbTpIqJH2Gys1MCNB9L6E=",
   "Source": "dt191g_moment1.2",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "h62amn6wjp",
-      "Integrity": "iRtJsthfgRRjWyYeO9kCCcctz2Zh8xnHs2a2XvaB+OU=",
+      "Fingerprint": "qtw5kkktie",
+      "Integrity": "kuZxw09AjuH+jYW11/couCBO52yl+APSd9RftYyWHug=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "ipr8w7zx99",
-      "Integrity": "Rkr3d0bMSAA13j5rS4pJ/2sRBwyz16U4LA+n/sZ7XhQ=",
+      "Fingerprint": "eskdeh58a7",
+      "Integrity": "fqyogL2EQ08kHzQp4U7thy2MwRzXPnc8LjHNt42R6g0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\dt191g_moment1.2.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "h0gfzb3p71",
-      "Integrity": "0X0dtV9tDQAAolgjGJkJIOKgZD7EIzKDO8ls9OfyPvg=",
+      "Fingerprint": "rw2xbv9cnd",
+      "Integrity": "++M4Y44jLhtro7AEZxLKLMBp/HaqKtOEtOrlrnzfn4I=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\webcil\\dt191g_moment1.2.wasm"
@@ -5330,7 +5330,7 @@
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.wasm"
     },
     {
-      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\5uop0bu8wj-ej04xc02j3.gz",
+      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\5uop0bu8wj-8xudon2xhh.gz",
       "SourceId": "dt191g_moment1.2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\",
@@ -6212,7 +6212,7 @@
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\b55cszfuxm-9iz8tj0fo8.gz",
+      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\b55cszfuxm-2dscted05r.gz",
       "SourceId": "dt191g_moment1.2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\",
@@ -6226,8 +6226,8 @@
       "RelatedAsset": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tfghj84gim",
-      "Integrity": "hz/dK5ka4mGITv5h/5xYwedzn1BgMAgz/o2kIZsp28E=",
+      "Fingerprint": "h900csvyuw",
+      "Integrity": "qxJ93NTfFl66yMdrCBIBMBpdp/mE3tZtoz1P6oVrwx4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -6674,12 +6674,12 @@
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\ec6hfzgu47-g4s3ni11f5.gz",
+      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\ec6hfzgu47-2x7vkk6uqd.gz",
       "SourceId": "dt191g_moment1.2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=g4s3ni11f5}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=2x7vkk6uqd}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6688,8 +6688,8 @@
       "RelatedAsset": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wgkn4979g5",
-      "Integrity": "YL9kl5SX0JEYlIOPRaNZCYYpx6kSdBpsYqm6iNeHSW0=",
+      "Fingerprint": "v414478t2t",
+      "Integrity": "v57vMSiDxEYfe8WqsdNiNXHD4GugTUUM2Ze+Uov67pI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\index.html"
@@ -7157,12 +7157,12 @@
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\hg3i5ib5kh-ipr8w7zx99.gz",
+      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\hg3i5ib5kh-eskdeh58a7.gz",
       "SourceId": "dt191g_moment1.2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dt191g_moment1.2#[.{fingerprint=ipr8w7zx99}]!.pdb.gz",
+      "RelativePath": "_framework/dt191g_moment1.2#[.{fingerprint=eskdeh58a7}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7171,8 +7171,8 @@
       "RelatedAsset": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_moment1.2.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8idb5t1fgk",
-      "Integrity": "4F1+Cv1Ta369rIm1sROcNgaPqgeiFZ2zE5FarmSEZ5U=",
+      "Fingerprint": "2i3f2b2kkj",
+      "Integrity": "ei3uEnKHCMNCO4hiimAz4V7mA6arrqbE2RUGhBh9Ogo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_moment1.2.pdb"
@@ -8123,7 +8123,7 @@
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.wasm"
     },
     {
-      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\n1cice3o2x-h62amn6wjp.gz",
+      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\n1cice3o2x-qtw5kkktie.gz",
       "SourceId": "dt191g_moment1.2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\",
@@ -8137,8 +8137,8 @@
       "RelatedAsset": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uwihcwehlf",
-      "Integrity": "/qVq2pM4EjBflR9Zmsyqoj49m2ISIkvZXf+g1Kf7ais=",
+      "Fingerprint": "rvmp2njcda",
+      "Integrity": "F264JLrV/apYMmznJahJQkhcyX31B5WPLizTno19n2c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9404,12 +9404,12 @@
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Tasks.Extensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\x5zxivf8tb-h0gfzb3p71.gz",
+      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\x5zxivf8tb-rw2xbv9cnd.gz",
       "SourceId": "dt191g_moment1.2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dt191g_moment1.2#[.{fingerprint=h0gfzb3p71}]!.wasm.gz",
+      "RelativePath": "_framework/dt191g_moment1.2#[.{fingerprint=rw2xbv9cnd}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9418,8 +9418,8 @@
       "RelatedAsset": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_moment1.2.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "iczte26rs5",
-      "Integrity": "Mo7sujO8lhZkvRfLYhQfWXZNL2yW3WX3gam/UOGSD20=",
+      "Fingerprint": "g5o3fcyl9d",
+      "Integrity": "BBx7W1F/gzNDfhN98k6K2BQZ42GFvRiJuC3COyYNKOA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_moment1.2.wasm"
@@ -9859,8 +9859,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "9iz8tj0fo8",
-      "Integrity": "P3Ea30HbvQa9xV4NgF8Lxhkl7b8Y40jH1fjHSiROanc=",
+      "Fingerprint": "2dscted05r",
+      "Integrity": "lh+KBJl/X0cxUwhAY37Hgl+vmHqu97nUJ4KnP1UTooI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -9880,8 +9880,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "ej04xc02j3",
-      "Integrity": "uswb7mvGZat+Q+YmAVE6AkpVHo6RuwckT0Zbc7qPSm0=",
+      "Fingerprint": "8xudon2xhh",
+      "Integrity": "zBGfDj++5vlY+zW9kinwHrvzTJu+3d4FQPJiGSPSfrA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "wwwroot\\service-worker.js"
@@ -10090,8 +10090,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "g4s3ni11f5",
-      "Integrity": "IACw26vLyacLb7F4pNrIoWlGsJ0pcWMmwPnbe+oIIJo=",
+      "Fingerprint": "2x7vkk6uqd",
+      "Integrity": "KoJgmi1YRR7XWg4UUCQ6V4FV9tWm+NHZpyUwLZCCjXY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -11083,11 +11083,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iRtJsthfgRRjWyYeO9kCCcctz2Zh8xnHs2a2XvaB+OU=\""
+          "Value": "\"kuZxw09AjuH+jYW11/couCBO52yl+APSd9RftYyWHug=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11097,13 +11097,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iRtJsthfgRRjWyYeO9kCCcctz2Zh8xnHs2a2XvaB+OU="
+          "Value": "sha256-kuZxw09AjuH+jYW11/couCBO52yl+APSd9RftYyWHug="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\n1cice3o2x-h62amn6wjp.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\n1cice3o2x-qtw5kkktie.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11122,11 +11122,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/qVq2pM4EjBflR9Zmsyqoj49m2ISIkvZXf+g1Kf7ais=\""
+          "Value": "\"F264JLrV/apYMmznJahJQkhcyX31B5WPLizTno19n2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:11 GMT"
+          "Value": "Wed, 22 Jan 2025 10:37:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11146,19 +11146,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"iRtJsthfgRRjWyYeO9kCCcctz2Zh8xnHs2a2XvaB+OU=\""
+          "Value": "W/\"kuZxw09AjuH+jYW11/couCBO52yl+APSd9RftYyWHug=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iRtJsthfgRRjWyYeO9kCCcctz2Zh8xnHs2a2XvaB+OU="
+          "Value": "sha256-kuZxw09AjuH+jYW11/couCBO52yl+APSd9RftYyWHug="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\n1cice3o2x-h62amn6wjp.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\n1cice3o2x-qtw5kkktie.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11175,11 +11175,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/qVq2pM4EjBflR9Zmsyqoj49m2ISIkvZXf+g1Kf7ais=\""
+          "Value": "\"F264JLrV/apYMmznJahJQkhcyX31B5WPLizTno19n2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:11 GMT"
+          "Value": "Wed, 22 Jan 2025 10:37:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11197,7 +11197,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/qVq2pM4EjBflR9Zmsyqoj49m2ISIkvZXf+g1Kf7ais="
+          "Value": "sha256-F264JLrV/apYMmznJahJQkhcyX31B5WPLizTno19n2c="
         }
       ]
     },
@@ -13127,168 +13127,7 @@
       ]
     },
     {
-      "Route": "_framework/dt191g_moment1.2.h0gfzb3p71.wasm",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_moment1.2.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19733"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0X0dtV9tDQAAolgjGJkJIOKgZD7EIzKDO8ls9OfyPvg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h0gfzb3p71"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dt191g_moment1.2.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0X0dtV9tDQAAolgjGJkJIOKgZD7EIzKDO8ls9OfyPvg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_moment1.2.h0gfzb3p71.wasm",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\x5zxivf8tb-h0gfzb3p71.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000115353559"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8668"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Mo7sujO8lhZkvRfLYhQfWXZNL2yW3WX3gam/UOGSD20=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"0X0dtV9tDQAAolgjGJkJIOKgZD7EIzKDO8ls9OfyPvg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h0gfzb3p71"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dt191g_moment1.2.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0X0dtV9tDQAAolgjGJkJIOKgZD7EIzKDO8ls9OfyPvg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_moment1.2.h0gfzb3p71.wasm.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\x5zxivf8tb-h0gfzb3p71.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8668"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Mo7sujO8lhZkvRfLYhQfWXZNL2yW3WX3gam/UOGSD20=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h0gfzb3p71"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dt191g_moment1.2.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Mo7sujO8lhZkvRfLYhQfWXZNL2yW3WX3gam/UOGSD20="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_moment1.2.ipr8w7zx99.pdb",
+      "Route": "_framework/dt191g_moment1.2.eskdeh58a7.pdb",
       "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_moment1.2.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13298,7 +13137,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23672"
+          "Value": "25572"
         },
         {
           "Name": "Content-Type",
@@ -13306,11 +13145,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Rkr3d0bMSAA13j5rS4pJ/2sRBwyz16U4LA+n/sZ7XhQ=\""
+          "Value": "\"fqyogL2EQ08kHzQp4U7thy2MwRzXPnc8LjHNt42R6g0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:35 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13320,7 +13159,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ipr8w7zx99"
+          "Value": "eskdeh58a7"
         },
         {
           "Name": "label",
@@ -13328,18 +13167,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Rkr3d0bMSAA13j5rS4pJ/2sRBwyz16U4LA+n/sZ7XhQ="
+          "Value": "sha256-fqyogL2EQ08kHzQp4U7thy2MwRzXPnc8LjHNt42R6g0="
         }
       ]
     },
     {
-      "Route": "_framework/dt191g_moment1.2.ipr8w7zx99.pdb",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\hg3i5ib5kh-ipr8w7zx99.gz",
+      "Route": "_framework/dt191g_moment1.2.eskdeh58a7.pdb",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\hg3i5ib5kh-eskdeh58a7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058001276"
+          "Quality": "0.000053025081"
         }
       ],
       "ResponseHeaders": [
@@ -13349,15 +13188,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17240"
+          "Value": "18858"
         },
         {
           "Name": "ETag",
-          "Value": "\"4F1+Cv1Ta369rIm1sROcNgaPqgeiFZ2zE5FarmSEZ5U=\""
+          "Value": "\"ei3uEnKHCMNCO4hiimAz4V7mA6arrqbE2RUGhBh9Ogo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13377,13 +13216,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Rkr3d0bMSAA13j5rS4pJ/2sRBwyz16U4LA+n/sZ7XhQ=\""
+          "Value": "W/\"fqyogL2EQ08kHzQp4U7thy2MwRzXPnc8LjHNt42R6g0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ipr8w7zx99"
+          "Value": "eskdeh58a7"
         },
         {
           "Name": "label",
@@ -13391,13 +13230,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Rkr3d0bMSAA13j5rS4pJ/2sRBwyz16U4LA+n/sZ7XhQ="
+          "Value": "sha256-fqyogL2EQ08kHzQp4U7thy2MwRzXPnc8LjHNt42R6g0="
         }
       ]
     },
     {
-      "Route": "_framework/dt191g_moment1.2.ipr8w7zx99.pdb.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\hg3i5ib5kh-ipr8w7zx99.gz",
+      "Route": "_framework/dt191g_moment1.2.eskdeh58a7.pdb.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\hg3i5ib5kh-eskdeh58a7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13406,7 +13245,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17240"
+          "Value": "18858"
         },
         {
           "Name": "Content-Type",
@@ -13414,11 +13253,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4F1+Cv1Ta369rIm1sROcNgaPqgeiFZ2zE5FarmSEZ5U=\""
+          "Value": "\"ei3uEnKHCMNCO4hiimAz4V7mA6arrqbE2RUGhBh9Ogo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13436,7 +13275,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ipr8w7zx99"
+          "Value": "eskdeh58a7"
         },
         {
           "Name": "label",
@@ -13444,7 +13283,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4F1+Cv1Ta369rIm1sROcNgaPqgeiFZ2zE5FarmSEZ5U="
+          "Value": "sha256-ei3uEnKHCMNCO4hiimAz4V7mA6arrqbE2RUGhBh9Ogo="
         }
       ]
     },
@@ -13459,7 +13298,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23672"
+          "Value": "25572"
         },
         {
           "Name": "Content-Type",
@@ -13467,11 +13306,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Rkr3d0bMSAA13j5rS4pJ/2sRBwyz16U4LA+n/sZ7XhQ=\""
+          "Value": "\"fqyogL2EQ08kHzQp4U7thy2MwRzXPnc8LjHNt42R6g0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:35 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13481,18 +13320,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Rkr3d0bMSAA13j5rS4pJ/2sRBwyz16U4LA+n/sZ7XhQ="
+          "Value": "sha256-fqyogL2EQ08kHzQp4U7thy2MwRzXPnc8LjHNt42R6g0="
         }
       ]
     },
     {
       "Route": "_framework/dt191g_moment1.2.pdb",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\hg3i5ib5kh-ipr8w7zx99.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\hg3i5ib5kh-eskdeh58a7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058001276"
+          "Quality": "0.000053025081"
         }
       ],
       "ResponseHeaders": [
@@ -13502,15 +13341,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17240"
+          "Value": "18858"
         },
         {
           "Name": "ETag",
-          "Value": "\"4F1+Cv1Ta369rIm1sROcNgaPqgeiFZ2zE5FarmSEZ5U=\""
+          "Value": "\"ei3uEnKHCMNCO4hiimAz4V7mA6arrqbE2RUGhBh9Ogo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13530,19 +13369,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Rkr3d0bMSAA13j5rS4pJ/2sRBwyz16U4LA+n/sZ7XhQ=\""
+          "Value": "W/\"fqyogL2EQ08kHzQp4U7thy2MwRzXPnc8LjHNt42R6g0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Rkr3d0bMSAA13j5rS4pJ/2sRBwyz16U4LA+n/sZ7XhQ="
+          "Value": "sha256-fqyogL2EQ08kHzQp4U7thy2MwRzXPnc8LjHNt42R6g0="
         }
       ]
     },
     {
       "Route": "_framework/dt191g_moment1.2.pdb.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\hg3i5ib5kh-ipr8w7zx99.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\hg3i5ib5kh-eskdeh58a7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13551,7 +13390,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17240"
+          "Value": "18858"
         },
         {
           "Name": "Content-Type",
@@ -13559,11 +13398,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4F1+Cv1Ta369rIm1sROcNgaPqgeiFZ2zE5FarmSEZ5U=\""
+          "Value": "\"ei3uEnKHCMNCO4hiimAz4V7mA6arrqbE2RUGhBh9Ogo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13581,7 +13420,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4F1+Cv1Ta369rIm1sROcNgaPqgeiFZ2zE5FarmSEZ5U="
+          "Value": "sha256-ei3uEnKHCMNCO4hiimAz4V7mA6arrqbE2RUGhBh9Ogo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_moment1.2.rw2xbv9cnd.wasm",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_moment1.2.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"++M4Y44jLhtro7AEZxLKLMBp/HaqKtOEtOrlrnzfn4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 10:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rw2xbv9cnd"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dt191g_moment1.2.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-++M4Y44jLhtro7AEZxLKLMBp/HaqKtOEtOrlrnzfn4I="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_moment1.2.rw2xbv9cnd.wasm",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\x5zxivf8tb-rw2xbv9cnd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000098270440"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10175"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BBx7W1F/gzNDfhN98k6K2BQZ42GFvRiJuC3COyYNKOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"++M4Y44jLhtro7AEZxLKLMBp/HaqKtOEtOrlrnzfn4I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rw2xbv9cnd"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dt191g_moment1.2.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-++M4Y44jLhtro7AEZxLKLMBp/HaqKtOEtOrlrnzfn4I="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_moment1.2.rw2xbv9cnd.wasm.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\x5zxivf8tb-rw2xbv9cnd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BBx7W1F/gzNDfhN98k6K2BQZ42GFvRiJuC3COyYNKOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rw2xbv9cnd"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dt191g_moment1.2.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BBx7W1F/gzNDfhN98k6K2BQZ42GFvRiJuC3COyYNKOA="
         }
       ]
     },
@@ -13596,7 +13596,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19733"
+          "Value": "23829"
         },
         {
           "Name": "Content-Type",
@@ -13604,11 +13604,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0X0dtV9tDQAAolgjGJkJIOKgZD7EIzKDO8ls9OfyPvg=\""
+          "Value": "\"++M4Y44jLhtro7AEZxLKLMBp/HaqKtOEtOrlrnzfn4I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:36 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13618,18 +13618,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0X0dtV9tDQAAolgjGJkJIOKgZD7EIzKDO8ls9OfyPvg="
+          "Value": "sha256-++M4Y44jLhtro7AEZxLKLMBp/HaqKtOEtOrlrnzfn4I="
         }
       ]
     },
     {
       "Route": "_framework/dt191g_moment1.2.wasm",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\x5zxivf8tb-h0gfzb3p71.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\x5zxivf8tb-rw2xbv9cnd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000115353559"
+          "Quality": "0.000098270440"
         }
       ],
       "ResponseHeaders": [
@@ -13639,15 +13639,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8668"
+          "Value": "10175"
         },
         {
           "Name": "ETag",
-          "Value": "\"Mo7sujO8lhZkvRfLYhQfWXZNL2yW3WX3gam/UOGSD20=\""
+          "Value": "\"BBx7W1F/gzNDfhN98k6K2BQZ42GFvRiJuC3COyYNKOA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13667,19 +13667,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0X0dtV9tDQAAolgjGJkJIOKgZD7EIzKDO8ls9OfyPvg=\""
+          "Value": "W/\"++M4Y44jLhtro7AEZxLKLMBp/HaqKtOEtOrlrnzfn4I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0X0dtV9tDQAAolgjGJkJIOKgZD7EIzKDO8ls9OfyPvg="
+          "Value": "sha256-++M4Y44jLhtro7AEZxLKLMBp/HaqKtOEtOrlrnzfn4I="
         }
       ]
     },
     {
       "Route": "_framework/dt191g_moment1.2.wasm.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\x5zxivf8tb-h0gfzb3p71.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\x5zxivf8tb-rw2xbv9cnd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13688,7 +13688,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8668"
+          "Value": "10175"
         },
         {
           "Name": "Content-Type",
@@ -13696,11 +13696,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Mo7sujO8lhZkvRfLYhQfWXZNL2yW3WX3gam/UOGSD20=\""
+          "Value": "\"BBx7W1F/gzNDfhN98k6K2BQZ42GFvRiJuC3COyYNKOA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13718,7 +13718,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Mo7sujO8lhZkvRfLYhQfWXZNL2yW3WX3gam/UOGSD20="
+          "Value": "sha256-BBx7W1F/gzNDfhN98k6K2BQZ42GFvRiJuC3COyYNKOA="
         }
       ]
     },
@@ -72453,7 +72453,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:16:01 GMT"
+          "Value": "Wed, 22 Jan 2025 10:02:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72514,7 +72514,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:16:01 GMT"
+          "Value": "Wed, 22 Jan 2025 10:02:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72559,7 +72559,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:16:01 GMT"
+          "Value": "Wed, 22 Jan 2025 10:02:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72614,7 +72614,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:16:01 GMT"
+          "Value": "Wed, 22 Jan 2025 10:02:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72667,7 +72667,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:16:01 GMT"
+          "Value": "Wed, 22 Jan 2025 10:02:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72704,7 +72704,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:16:01 GMT"
+          "Value": "Wed, 22 Jan 2025 10:02:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74381,13 +74381,13 @@
       ]
     },
     {
-      "Route": "index.g4s3ni11f5.html",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\ec6hfzgu47-g4s3ni11f5.gz",
+      "Route": "index.2x7vkk6uqd.html",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\ec6hfzgu47-2x7vkk6uqd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001739130435"
+          "Quality": "0.001589825119"
         }
       ],
       "ResponseHeaders": [
@@ -74397,15 +74397,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "574"
+          "Value": "628"
         },
         {
           "Name": "ETag",
-          "Value": "\"YL9kl5SX0JEYlIOPRaNZCYYpx6kSdBpsYqm6iNeHSW0=\""
+          "Value": "\"v57vMSiDxEYfe8WqsdNiNXHD4GugTUUM2Ze+Uov67pI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:18:39 GMT"
+          "Value": "Wed, 22 Jan 2025 10:13:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74425,13 +74425,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IACw26vLyacLb7F4pNrIoWlGsJ0pcWMmwPnbe+oIIJo=\""
+          "Value": "W/\"KoJgmi1YRR7XWg4UUCQ6V4FV9tWm+NHZpyUwLZCCjXY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g4s3ni11f5"
+          "Value": "2x7vkk6uqd"
         },
         {
           "Name": "label",
@@ -74439,12 +74439,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IACw26vLyacLb7F4pNrIoWlGsJ0pcWMmwPnbe+oIIJo="
+          "Value": "sha256-KoJgmi1YRR7XWg4UUCQ6V4FV9tWm+NHZpyUwLZCCjXY="
         }
       ]
     },
     {
-      "Route": "index.g4s3ni11f5.html",
+      "Route": "index.2x7vkk6uqd.html",
       "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -74454,7 +74454,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1268"
+          "Value": "1384"
         },
         {
           "Name": "Content-Type",
@@ -74462,11 +74462,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IACw26vLyacLb7F4pNrIoWlGsJ0pcWMmwPnbe+oIIJo=\""
+          "Value": "\"KoJgmi1YRR7XWg4UUCQ6V4FV9tWm+NHZpyUwLZCCjXY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:18:39 GMT"
+          "Value": "Wed, 22 Jan 2025 10:13:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74476,7 +74476,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g4s3ni11f5"
+          "Value": "2x7vkk6uqd"
         },
         {
           "Name": "label",
@@ -74484,13 +74484,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IACw26vLyacLb7F4pNrIoWlGsJ0pcWMmwPnbe+oIIJo="
+          "Value": "sha256-KoJgmi1YRR7XWg4UUCQ6V4FV9tWm+NHZpyUwLZCCjXY="
         }
       ]
     },
     {
-      "Route": "index.g4s3ni11f5.html.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\ec6hfzgu47-g4s3ni11f5.gz",
+      "Route": "index.2x7vkk6uqd.html.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\ec6hfzgu47-2x7vkk6uqd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -74499,7 +74499,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "574"
+          "Value": "628"
         },
         {
           "Name": "Content-Type",
@@ -74507,11 +74507,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YL9kl5SX0JEYlIOPRaNZCYYpx6kSdBpsYqm6iNeHSW0=\""
+          "Value": "\"v57vMSiDxEYfe8WqsdNiNXHD4GugTUUM2Ze+Uov67pI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:18:39 GMT"
+          "Value": "Wed, 22 Jan 2025 10:13:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74529,7 +74529,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g4s3ni11f5"
+          "Value": "2x7vkk6uqd"
         },
         {
           "Name": "label",
@@ -74537,18 +74537,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YL9kl5SX0JEYlIOPRaNZCYYpx6kSdBpsYqm6iNeHSW0="
+          "Value": "sha256-v57vMSiDxEYfe8WqsdNiNXHD4GugTUUM2Ze+Uov67pI="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\ec6hfzgu47-g4s3ni11f5.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\ec6hfzgu47-2x7vkk6uqd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001739130435"
+          "Quality": "0.001589825119"
         }
       ],
       "ResponseHeaders": [
@@ -74558,15 +74558,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "574"
+          "Value": "628"
         },
         {
           "Name": "ETag",
-          "Value": "\"YL9kl5SX0JEYlIOPRaNZCYYpx6kSdBpsYqm6iNeHSW0=\""
+          "Value": "\"v57vMSiDxEYfe8WqsdNiNXHD4GugTUUM2Ze+Uov67pI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:18:39 GMT"
+          "Value": "Wed, 22 Jan 2025 10:13:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74586,13 +74586,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IACw26vLyacLb7F4pNrIoWlGsJ0pcWMmwPnbe+oIIJo=\""
+          "Value": "W/\"KoJgmi1YRR7XWg4UUCQ6V4FV9tWm+NHZpyUwLZCCjXY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IACw26vLyacLb7F4pNrIoWlGsJ0pcWMmwPnbe+oIIJo="
+          "Value": "sha256-KoJgmi1YRR7XWg4UUCQ6V4FV9tWm+NHZpyUwLZCCjXY="
         }
       ]
     },
@@ -74607,7 +74607,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1268"
+          "Value": "1384"
         },
         {
           "Name": "Content-Type",
@@ -74615,11 +74615,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IACw26vLyacLb7F4pNrIoWlGsJ0pcWMmwPnbe+oIIJo=\""
+          "Value": "\"KoJgmi1YRR7XWg4UUCQ6V4FV9tWm+NHZpyUwLZCCjXY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:18:39 GMT"
+          "Value": "Wed, 22 Jan 2025 10:13:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74629,13 +74629,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IACw26vLyacLb7F4pNrIoWlGsJ0pcWMmwPnbe+oIIJo="
+          "Value": "sha256-KoJgmi1YRR7XWg4UUCQ6V4FV9tWm+NHZpyUwLZCCjXY="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\ec6hfzgu47-g4s3ni11f5.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\ec6hfzgu47-2x7vkk6uqd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -74644,7 +74644,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "574"
+          "Value": "628"
         },
         {
           "Name": "Content-Type",
@@ -74652,11 +74652,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YL9kl5SX0JEYlIOPRaNZCYYpx6kSdBpsYqm6iNeHSW0=\""
+          "Value": "\"v57vMSiDxEYfe8WqsdNiNXHD4GugTUUM2Ze+Uov67pI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:18:39 GMT"
+          "Value": "Wed, 22 Jan 2025 10:13:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74674,7 +74674,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YL9kl5SX0JEYlIOPRaNZCYYpx6kSdBpsYqm6iNeHSW0="
+          "Value": "sha256-v57vMSiDxEYfe8WqsdNiNXHD4GugTUUM2Ze+Uov67pI="
         }
       ]
     },
@@ -88388,12 +88388,12 @@
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\b55cszfuxm-9iz8tj0fo8.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\b55cszfuxm-2dscted05r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000078345346"
+          "Quality": "0.000078351485"
         }
       ],
       "ResponseHeaders": [
@@ -88403,15 +88403,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12763"
+          "Value": "12762"
         },
         {
           "Name": "ETag",
-          "Value": "\"hz/dK5ka4mGITv5h/5xYwedzn1BgMAgz/o2kIZsp28E=\""
+          "Value": "\"qxJ93NTfFl66yMdrCBIBMBpdp/mE3tZtoz1P6oVrwx4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -88431,13 +88431,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"P3Ea30HbvQa9xV4NgF8Lxhkl7b8Y40jH1fjHSiROanc=\""
+          "Value": "W/\"lh+KBJl/X0cxUwhAY37Hgl+vmHqu97nUJ4KnP1UTooI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P3Ea30HbvQa9xV4NgF8Lxhkl7b8Y40jH1fjHSiROanc="
+          "Value": "sha256-lh+KBJl/X0cxUwhAY37Hgl+vmHqu97nUJ4KnP1UTooI="
         }
       ]
     },
@@ -88460,11 +88460,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P3Ea30HbvQa9xV4NgF8Lxhkl7b8Y40jH1fjHSiROanc=\""
+          "Value": "\"lh+KBJl/X0cxUwhAY37Hgl+vmHqu97nUJ4KnP1UTooI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -88474,13 +88474,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P3Ea30HbvQa9xV4NgF8Lxhkl7b8Y40jH1fjHSiROanc="
+          "Value": "sha256-lh+KBJl/X0cxUwhAY37Hgl+vmHqu97nUJ4KnP1UTooI="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\b55cszfuxm-9iz8tj0fo8.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\b55cszfuxm-2dscted05r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -88489,7 +88489,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12763"
+          "Value": "12762"
         },
         {
           "Name": "Content-Type",
@@ -88497,11 +88497,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hz/dK5ka4mGITv5h/5xYwedzn1BgMAgz/o2kIZsp28E=\""
+          "Value": "\"qxJ93NTfFl66yMdrCBIBMBpdp/mE3tZtoz1P6oVrwx4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -88519,13 +88519,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hz/dK5ka4mGITv5h/5xYwedzn1BgMAgz/o2kIZsp28E="
+          "Value": "sha256-qxJ93NTfFl66yMdrCBIBMBpdp/mE3tZtoz1P6oVrwx4="
         }
       ]
     },
     {
       "Route": "service-worker.js",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\5uop0bu8wj-ej04xc02j3.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\5uop0bu8wj-8xudon2xhh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -88548,7 +88548,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -88568,13 +88568,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uswb7mvGZat+Q+YmAVE6AkpVHo6RuwckT0Zbc7qPSm0=\""
+          "Value": "W/\"zBGfDj++5vlY+zW9kinwHrvzTJu+3d4FQPJiGSPSfrA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uswb7mvGZat+Q+YmAVE6AkpVHo6RuwckT0Zbc7qPSm0="
+          "Value": "sha256-zBGfDj++5vlY+zW9kinwHrvzTJu+3d4FQPJiGSPSfrA="
         }
       ]
     },
@@ -88597,7 +88597,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uswb7mvGZat+Q+YmAVE6AkpVHo6RuwckT0Zbc7qPSm0=\""
+          "Value": "\"zBGfDj++5vlY+zW9kinwHrvzTJu+3d4FQPJiGSPSfrA=\""
         },
         {
           "Name": "Last-Modified",
@@ -88611,13 +88611,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uswb7mvGZat+Q+YmAVE6AkpVHo6RuwckT0Zbc7qPSm0="
+          "Value": "sha256-zBGfDj++5vlY+zW9kinwHrvzTJu+3d4FQPJiGSPSfrA="
         }
       ]
     },
     {
       "Route": "service-worker.js.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\5uop0bu8wj-ej04xc02j3.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\obj\\Debug\\net9.0\\compressed\\5uop0bu8wj-8xudon2xhh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -88638,7 +88638,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:46:37 GMT"
+          "Value": "Wed, 22 Jan 2025 10:38:47 GMT"
         },
         {
           "Name": "Cache-Control",

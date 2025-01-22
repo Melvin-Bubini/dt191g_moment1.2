@@ -2,3 +2,65 @@
 @inject HttpClient Http
 
 <h1>Konvertera</h1>
+
+<div class="container mt-5">
+    <div class="row">
+        <!-- Formulär -->
+        <div class="col-md-6">
+            <div class="form-section">
+                <h5><i class="fas fa-ruler"></i> Omvandling: @MeterLabel till @FotLabel</h5>
+                <form>
+                    <div class="mb-3">
+                        <label for="meter" class="form-label">@MeterLabel</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fa-solid fa-ruler-horizontal"></i></span>
+                            <input type="number" class="form-control" id="meter" @bind="MeterValue" placeholder="@MeterPlaceholder">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="fot" class="form-label">@FotLabel</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fas fa-ruler-combined"></i></span>
+                            <input type="number" class="form-control" id="fot" @bind="FotValue"  placeholder="@FotPlaceholder">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <!-- Byt plats-knapp -->
+                        <button type="button" class="btn btn-primary" @onclick="SwapValues">
+                            <i class="fas fa-arrows-alt-v"></i> Byt Plats
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    // Fältvärden
+    private string MeterValue { get; set; } = string.Empty;
+    private string FotValue { get; set; } = string.Empty;
+    // Label och placeholder-värden
+    private string MeterLabel { get; set; } = "Meter";
+    private string FotLabel { get; set; } = "Fot";
+    private string MeterPlaceholder { get; set; } = "Ange meter";
+    private string FotPlaceholder { get; set; } = "Ange fot";
+
+   // Byt plats-funktion
+    private void SwapValues()
+    {
+        // Byt värdena mellan meter och fot
+        var temp = MeterValue;
+        MeterValue = FotValue;
+        FotValue = temp;
+
+        // Byt etiketter och placeholder
+        var tempLabel = MeterLabel;
+        MeterLabel = FotLabel;
+        FotLabel = tempLabel;
+
+        var tempPlaceholder = MeterPlaceholder;
+        MeterPlaceholder = FotPlaceholder;
+        FotPlaceholder = tempPlaceholder;
+    }
+}
