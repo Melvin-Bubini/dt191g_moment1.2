@@ -21,18 +21,6 @@
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\css\\pages\\convert.css",
-      "PackagePath": "staticwebassets\\css\\pages\\convert.css"
-    },
-    {
-      "Id": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\css\\pages\\home.css",
-      "PackagePath": "staticwebassets\\css\\pages\\home.css"
-    },
-    {
-      "Id": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\css\\pages\\json.css",
-      "PackagePath": "staticwebassets\\css\\pages\\json.css"
-    },
-    {
       "Id": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -227,10 +215,6 @@
     {
       "Id": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\manifest.webmanifest",
       "PackagePath": "staticwebassets\\manifest.webmanifest"
-    },
-    {
-      "Id": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.2\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.dt191g_moment1.2.props",

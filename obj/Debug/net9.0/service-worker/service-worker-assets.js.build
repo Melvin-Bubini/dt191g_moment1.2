@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "LAKS2BVO",
+  "version": "ahZ6l2b8",
   "assets": [
     {
       "hash": "sha256-N6/4dp+rtuEu+iWs7ZZs30QrZzpGpF9KC6ulCWZCo2w=",
@@ -758,7 +758,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.ovqw333kan.wasm"
     },
     {
-      "hash": "sha256-AIHJHZOh5ZDFEQHPVUDs1oU6P2cDDDv0mRQx4BsJ+DY=",
+      "hash": "sha256-6ZsN9fG+0a0xKCjdb3ESy1ZnUG/speetLzIJlXrQpr8=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -790,12 +790,12 @@ self.assetsManifest = {
       "url": "_framework/dotnet.runtime.rubq0v1yiy.js"
     },
     {
-      "hash": "sha256-3Oe96CF5NkGm/1KwOfe4iNg4asLZ9WL7NlHOahLdoKo=",
-      "url": "_framework/dt191g_moment1.2.48kbdsk2lt.pdb"
+      "hash": "sha256-AAYSSsElnyCdGZBfJ6Za1yuKuLds+3tPYG7xRI48gmI=",
+      "url": "_framework/dt191g_moment1.2.oimg4g2xhn.wasm"
     },
     {
-      "hash": "sha256-OZbQ4fuxCu5Dtj2u+JwXQ7mUqmrYYbs5lTHoDaynJj0=",
-      "url": "_framework/dt191g_moment1.2.9cwqo6czfk.wasm"
+      "hash": "sha256-oN2qm9jarKD2zLRJpDJWa9RD8tcDWsPT8kV+wkaY/Xg=",
+      "url": "_framework/dt191g_moment1.2.ws5cevt4y7.pdb"
     },
     {
       "hash": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -826,23 +826,11 @@ self.assetsManifest = {
       "url": "css/components/header.css"
     },
     {
-      "hash": "sha256-tMDECx7y6oEFGpFNZOyN2HtyenwXIJ79ZrNG+ys4jRo=",
+      "hash": "sha256-PhFIkKXhZpjsBo+BnjrJ70kRsKSv14x6BJV43V16JaI=",
       "url": "css/main.css"
     },
     {
-      "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "url": "css/pages/convert.css"
-    },
-    {
-      "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "url": "css/pages/home.css"
-    },
-    {
-      "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "url": "css/pages/json.css"
-    },
-    {
-      "hash": "sha256-Ke/Je5I8rl5bjpmYtBoAd0QwFZlXN//jR2Ghe2P3TYE=",
+      "hash": "sha256-VlqtTfCz56xBV3wRTmyPD6AoAkXygkU1kQuB+AswHQg=",
       "url": "dt191g_moment1.2.styles.css"
     },
     {
@@ -1040,10 +1028,6 @@ self.assetsManifest = {
     {
       "hash": "sha256-nxvGDgdvrNcrsceG4+9QOB5aH5laDO43EsZXFWv2Mrg=",
       "url": "manifest.webmanifest"
-    },
-    {
-      "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=",
-      "url": "sample-data/weather.json"
     }
   ]
 };
