@@ -6,8 +6,6 @@ C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_f
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dotnet.native.aep4lch3d1.wasm
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.rubq0v1yiy.js
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.js.map
-C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dt191g_moment1.2.vwomko526q.pdb
-C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dt191g_moment1.2.60fw52ape9.wasm
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
@@ -318,7 +316,6 @@ C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_f
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\System.ComponentModel.1bvu7o7kso.wasm.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\System.IO.Pipelines.hyk2aqc7g8.wasm.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\System.Private.CoreLib.u3k7k03qne.wasm.gz
-C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dt191g_moment1.2.vwomko526q.pdb.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\System.IO.Pipes.itag36er3p.wasm.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\Microsoft.Extensions.Configuration.h7p166i5j0.wasm.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\System.Drawing.Primitives.wesyyx6itb.wasm.gz
@@ -397,7 +394,6 @@ C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_f
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.wikdnhmugy.wasm.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\System.Resources.Writer.4ao90ee7f8.wasm.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\System.Threading.Tasks.Extensions.ovsq4u2j97.wasm.gz
-C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dt191g_moment1.2.60fw52ape9.wasm.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\System.Reflection.TypeExtensions.elsa09wwcc.wasm.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.krtg4e9rjb.wasm.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.fanayclfog.wasm.gz
@@ -1074,11 +1070,6 @@ C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\6am9jr3kmg-tjcz0u77k5.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\cox13oh6ru-tptq2av103.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\aqudochfye-lfu7j35m59.gz
-C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\x5zxivf8tb-60fw52ape9.gz
-C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\hg3i5ib5kh-vwomko526q.gz
-C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\n1cice3o2x-cec9hgchac.gz
-C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\5uop0bu8wj-okb0ct9wfr.gz
-C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\b55cszfuxm-s8g2765v34.gz
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\staticwebassets.development.json
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\staticwebassets.build.endpoints.json
@@ -1093,3 +1084,15 @@ C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\dt191g_mom
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\refint\dt191g_moment1.2.dll
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\dt191g_moment1.2.pdb
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\ref\dt191g_moment1.2.dll
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dt191g_moment1.2.7rb7oi5rlr.pdb
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dt191g_moment1.2.saisw20bl5.wasm
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dt191g_moment1.2.7rb7oi5rlr.pdb.gz
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\wwwroot\_framework\dt191g_moment1.2.saisw20bl5.wasm.gz
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\release\web.config
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\release\dt191g_moment1.2.staticwebassets.endpoints.json
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\bin\Release\net9.0\release\wwwroot\_framework\blazor.boot.json
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\x5zxivf8tb-saisw20bl5.gz
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\hg3i5ib5kh-7rb7oi5rlr.gz
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\n1cice3o2x-zhqiweggbf.gz
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\5uop0bu8wj-1xi1aj968d.gz
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\obj\Release\net9.0\compressed\b55cszfuxm-jjewlfvwkb.gz

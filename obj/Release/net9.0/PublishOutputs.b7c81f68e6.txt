@@ -1,1 +1,4 @@
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\release\release\web.config
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\release\release\dt191g_moment1.2.staticwebassets.endpoints.json
+C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\release\release\wwwroot\_framework\blazor.boot.json
 C:\Users\melvi\OneDrive\Skrivbord\dt191g_moment1.2\release\web.config
