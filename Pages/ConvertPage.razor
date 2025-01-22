@@ -8,26 +8,108 @@
         <!-- Formulär -->
         <div class="col-md-6">
             <div class="form-section">
-                <h5><i class="fas fa-ruler"></i> Omvandling: @MeterLabel till @FotLabel</h5>
+                <h5><i class="fas fa-ruler"></i> Omvandling: Meter till Fot</h5>
                 <form>
                     <div class="mb-3">
-                        <label for="meter" class="form-label">@MeterLabel</label>
+                        <label for="meter" class="form-label">Ange Meter</label>
                         <div class="input-group">
                             <span class="input-group-text"><i class="fa-solid fa-ruler-horizontal"></i></span>
-                            <input type="number" class="form-control" id="meter" @bind="MeterValue" placeholder="@MeterPlaceholder">
+                            <input type="number" class="form-control" id="meter" @bind="MeterValue" placeholder="Ange Meter">
                         </div>
                     </div>
                     <div class="mb-3">
-                        <label for="fot" class="form-label">@FotLabel</label>
+                        <label for="fot" class="form-label">Värde i Fot</label>
                         <div class="input-group">
                             <span class="input-group-text"><i class="fas fa-ruler-combined"></i></span>
-                            <input type="number" class="form-control" id="fot" @bind="FotValue"  placeholder="@FotPlaceholder">
+                            <!-- Textinput där resultatet visas i fot -->
+                            <input type="text" class="form-control" id="fot" value="@FotResult" readonly
+                                placeholder="Värde i Fot">
                         </div>
                     </div>
                     <div class="text-center">
-                        <!-- Byt plats-knapp -->
-                        <button type="button" class="btn btn-primary" @onclick="SwapValues">
-                            <i class="fas fa-arrows-alt-v"></i> Byt Plats
+                        <!-- Omvandla från Meter till Fot-knapp -->
+                        <button type="button" class="btn btn-success" @onclick="ConvertMeterToFot">
+                            Omvandla till Fot
+                        </button>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="fotInput" class="form-label">Ange Fot</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fas fa-ruler-combined"></i></span>
+                            <input type="number" class="form-control" id="fotInput" @bind="FotValue" placeholder="Ange Fot">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="meterResult" class="form-label">Värde i Meter</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fa-solid fa-ruler-horizontal"></i></span>
+                            <!-- Textinput där resultatet visas i meter -->
+                            <input type="text" class="form-control" id="meterResult" value="@MeterResult" readonly
+                                placeholder="Värde i Meter">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <!-- Omvandla från Fot till Meter-knapp -->
+                        <button type="button" class="btn btn-warning" @onclick="ConvertFotToMeter">
+                            Omvandla till Meter
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container mt-5 mb-5">
+    <div class="row">
+        <!-- Formulär -->
+        <div class="col-md-6">
+            <div class="form-section">
+                <h5><i class="fas fa-ruler"></i> Omvandling: km/h till miles/hour</h5>
+                <form>
+                    <div class="mb-3">
+                        <label for="km" class="form-label">Ange i km/h</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fa-solid fa-ruler-horizontal"></i></span>
+                            <input type="number" class="form-control" id="km" @bind="KmValue" placeholder="Ange i km/h">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="miles" class="form-label">Värde i miles/hour</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fas fa-ruler-combined"></i></span>
+                            <!-- Textinput där resultatet visas i miles -->
+                            <input type="text" class="form-control" id="miles" value="@MilesResult" readonly
+                                placeholder="Värde i miles/hour">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <!-- Omvandla från Meter till miles-knapp -->
+                        <button type="button" class="btn btn-success" @onclick="ConvertKmToMiles">
+                            Omvandla till miles/hour
+                        </button>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="milesInput" class="form-label">Ange miles/hour</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fas fa-ruler-combined"></i></span>
+                            <input type="number" class="form-control" id="milesInput" @bind="MilesValue" placeholder="Ange miles/hour">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="KmResult" class="form-label">Värde i km/h</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fa-solid fa-ruler-horizontal"></i></span>
+                            <!-- Textinput där resultatet visas i meter -->
+                            <input type="text" class="form-control" id="KmResult" value="@KmResult" readonly
+                                placeholder="Värde i km/h">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <!-- Omvandla från Fot till Meter-knapp -->
+                        <button type="button" class="btn btn-warning" @onclick="ConvertMilesToKm">
+                            Omvandla till km/h
                         </button>
                     </div>
                 </form>
@@ -40,27 +122,59 @@
     // Fältvärden
     private string MeterValue { get; set; } = string.Empty;
     private string FotValue { get; set; } = string.Empty;
-    // Label och placeholder-värden
-    private string MeterLabel { get; set; } = "Meter";
-    private string FotLabel { get; set; } = "Fot";
-    private string MeterPlaceholder { get; set; } = "Ange meter";
-    private string FotPlaceholder { get; set; } = "Ange fot";
+    private string MeterResult { get; set; } = string.Empty; // För visning av resultat i meter
+    private string FotResult { get; set; } = string.Empty; // För visning av resultat i fot
+    private string KmValue { get; set; } = string.Empty;
+    private string MilesValue { get; set; } = string.Empty;
+    private string KmResult { get; set; } = string.Empty; // För visning av resultat i km/h
+    private string MilesResult { get; set; } = string.Empty; // För visning av resultat i miles/hour
 
-   // Byt plats-funktion
-    private void SwapValues()
+
+    // Omvandla meter till fot
+    private void ConvertMeterToFot()
     {
-        // Byt värdena mellan meter och fot
-        var temp = MeterValue;
-        MeterValue = FotValue;
-        FotValue = temp;
+        // Ersätt komma med punkt för korrekt format
+        var meterInput = MeterValue.Replace(",", ".");
+        if (double.TryParse(meterInput, out double meter))
+        {
+            FotResult = (meter * 3.28084).ToString("F2"); // Uppdatera resultatet i fot
+        }
+        else
+        {
+            FotResult = string.Empty; // Om ogiltigt värde eller tomt, rensa fotresultatet
+        }
+    }
 
-        // Byt etiketter och placeholder
-        var tempLabel = MeterLabel;
-        MeterLabel = FotLabel;
-        FotLabel = tempLabel;
+    // Omvandla fot till meter
+    private void ConvertFotToMeter()
+    {
+        // Ersätt komma med punkt för korrekt format
+        var fotInput = FotValue.Replace(",", ".");
+        if (double.TryParse(fotInput, out double fot))
+        {
+            MeterResult = (fot / 3.28084).ToString("F2"); // Uppdatera resultatet i meter
+        }
+        else
+        {
+            MeterResult = string.Empty; // Om ogiltigt värde eller tomt, rensa meteresultatet
+        }
+    }
 
-        var tempPlaceholder = MeterPlaceholder;
-        MeterPlaceholder = FotPlaceholder;
-        FotPlaceholder = tempPlaceholder;
+    private void ConvertKmToMiles() {
+        var kmInput = KmValue.Replace(",", ".");
+        if(double.TryParse(kmInput, out double km)) {
+            MilesResult = (km * 0.6213711922).ToString("F2"); 
+        } else {
+            MilesResult = string.Empty; // Om ogiltigt värde
+        }
+    }
+
+    private void ConvertMilesToKm() {
+        var milesInput = MilesValue.Replace(",", ".");
+        if(double.TryParse(milesInput, out double miles)) {
+            KmResult = (miles * 1.609344).ToString("F2"); 
+        } else {
+            KmResult = string.Empty; // Om ogiltigt värde
+        }
     }
 }
