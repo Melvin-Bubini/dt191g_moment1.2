@@ -1,0 +1,77 @@
+@page "/json"
+@inject HttpClient Http
+
+<h1>JSON</h1>
+
+@if (json == null)
+{
+    <p>laddar...</p>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Fullständigt namn</th>
+                <th>Konferens</th>
+                <th>Förkortning</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (json?.data != null)
+            {
+                @foreach (var team in json.data.Take(maxTeams))
+                {
+                    <tr>
+                        <td>@team.full_name</td>
+                        <td>@team.conference</td>
+                        <td>@team.abbreviation</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    // Array för lagdata
+    private ApiResponse? json;
+    // api nyckel
+    private const string ApiKey = "a0434e23-769c-4fdd-a34f-64a3221929fb";
+
+    // max antal lag som man visar
+    private const int maxTeams = 30;
+
+    // http anrop
+    protected override async Task OnInitializedAsync()
+    {
+        var request = new HttpRequestMessage(HttpMethod.Get, "https://api.balldontlie.io/v1/teams");
+        request.Headers.Add("Authorization", ApiKey);
+
+        var response = await Http.SendAsync(request);
+
+        if (response.IsSuccessStatusCode)
+        {
+            json = await response.Content.ReadFromJsonAsync<ApiResponse>();
+        }
+        else
+        {
+            Console.WriteLine($"Fel vid API-anrop: {response.StatusCode}");
+        }
+    }
+
+    // Modell för API-svar
+    public class ApiResponse
+    {
+        public Team[]? data { get; set; }
+    }
+
+    // modell för ramschema
+
+    public class Team
+    {
+        public string? full_name { get; set; }
+        public string? conference { get; set; }
+        public string? abbreviation { get; set; }
+    }
+}
