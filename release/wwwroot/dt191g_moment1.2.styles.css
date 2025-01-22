@@ -1,0 +1,107 @@
+/* /Layout/MainLayout.razor.rz.scp.css */
+.page[b-r4s6cn2qox] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-r4s6cn2qox] {
+    flex: 1;
+}
+
+.sidebar[b-r4s6cn2qox] {
+    background-image: linear-gradient(180deg, #3a0647 0%, #64003a 70%);
+}
+
+/* @media (min-width: 641px) {
+    .page {
+        flex-direction: row;
+    }
+
+    .sidebar {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    article {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+} */
+/* /Layout/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-gakdu63j4e] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav-top[b-gakdu63j4e] {
+    color: white;
+    width: 100%;
+    padding: 0.5rem 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    transition: height 0.3s ease, opacity 0.3s ease;
+}
+
+.nav-top.show[b-gakdu63j4e] {
+    display: flex; 
+}
+
+
+.nav-top .nav[b-gakdu63j4e] {
+    flex-wrap: wrap;
+}
+
+.top-row[b-gakdu63j4e] {
+    min-height: 3.5rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand[b-gakdu63j4e] {
+    font-size: 1.1rem;
+}
+
+.nav-item[b-gakdu63j4e] {
+    font-size: 1rem;
+    margin: 0 1rem;
+}
+
+.nav-item[b-gakdu63j4e]  a {
+    color: #d7d7d7;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-item[b-gakdu63j4e]  a.active {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: white;
+}
+
+.nav-item[b-gakdu63j4e]  a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-gakdu63j4e] {
+        display: none;
+    }
+
+    .nav-top[b-gakdu63j4e] {
+        display: flex;
+        justify-content: center;
+    }
+
+}
